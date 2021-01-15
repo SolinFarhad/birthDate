@@ -1,0 +1,13 @@
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\bin\Debug\netcoreapp3.1\myBirthdate.exe
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\bin\Debug\netcoreapp3.1\myBirthdate.deps.json
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\bin\Debug\netcoreapp3.1\myBirthdate.runtimeconfig.json
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\bin\Debug\netcoreapp3.1\myBirthdate.runtimeconfig.dev.json
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\bin\Debug\netcoreapp3.1\myBirthdate.dll
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\bin\Debug\netcoreapp3.1\myBirthdate.pdb
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\obj\Debug\netcoreapp3.1\myBirthdate.csprojAssemblyReference.cache
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\obj\Debug\netcoreapp3.1\myBirthdate.AssemblyInfoInputs.cache
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\obj\Debug\netcoreapp3.1\myBirthdate.AssemblyInfo.cs
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\obj\Debug\netcoreapp3.1\myBirthdate.csproj.CoreCompileInputs.cache
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\obj\Debug\netcoreapp3.1\myBirthdate.dll
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\obj\Debug\netcoreapp3.1\myBirthdate.pdb
+C:\Users\Hawsh\Desktop\myBirthdate\myBirthdate\obj\Debug\netcoreapp3.1\myBirthdate.genruntimeconfig.cache
